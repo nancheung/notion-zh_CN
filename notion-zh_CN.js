@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Notion-zh_CN notion的汉化脚本
 // @namespace    http://tampermonkey.net/
-// @version      0.0.3
+// @version      0.0.4
 // @description  notion的汉化脚本
 // @author       NanCheung
 // @match        *://www.notion.so/*
@@ -419,6 +419,29 @@
     'Add cover':'添加封面',
     'Add description':'添加说明',
     'Hide description':'隐藏说明',
+    'Create work account':'创建工作账户',
+    'Add another account':'添加另一个账户',
+    'Log out all':'全部登出',
+    'Get Windows app':'获取 Windows 应用',
+    'Join or create workspace':'加入或创建工作区',
+    'Customize page':'自定义页面',
+    'Lock page':'锁定页面',
+    'No pages inside':'里面没有页面',
+    'Press Enter to continue with an empty page, or pick a template (↑↓ to select)':'按 Enter 继续空白页面，或选择模板（↑↓ 选择）',
+    'Add comment':'添加评论',
+    'Turn into':'变成',
+    'Turn into page in':'跳转页面',
+    'Last used':'最近使用',
+    'Background':'背景',
+    'Change cover':'更换封面',
+    'Reposition':'调整位置',
+    'Upload':'上传',
+    'Images wider than 1500 pixels work best.':'宽度超过 1500 像素的图像效果最佳。',
+    'Choose an image':'选择一张图片',
+    'Drag image to reposition':'拖动图片以重新定位',
+    'Save position':'保存位置',
+    '':'',
+    '':'',
   });
 
 
