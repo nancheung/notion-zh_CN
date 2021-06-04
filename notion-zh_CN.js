@@ -35,7 +35,7 @@
     // -----------------
     // 左栏
     'Quick Find': '快速查找',
-    'All Updates': '所有的更新',
+    'All Updates': '所有更新',
       // 所有的更新中
       'Followed': '已关注',
       'Mentions': '提到我的',
@@ -395,8 +395,8 @@
     'Open in Windows app': '以 Windows 应用程式开启',
     'Show deleted pages': '显示删除页面',
     'Export': '导出',
-    'Database lock': '数据库锁',
-    'Merge with CSV': '和CSV合并',
+    'Database lock': '锁定数据库',
+    'Merge with CSV': '合并CSV',
     'Move to': '移动至',
     'Share or publish to the web': '分享或发布至网站',
     'View past changes to this page': '查看本页面过去的更改纪录',
