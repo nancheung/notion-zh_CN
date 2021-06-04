@@ -351,7 +351,7 @@
     'A simplified page view, great for bookmarks and notes': '简化的页面视图，非常适合书籤和笔记',
       'A timeline view, great for project scheduling and planning': '时间线视图，非常适合项目调度和规划',
     'Create': '建立',
-    'Learn about databases': '了解关于资料库',
+    'Learn about databases': '了解关于数据库',
     'New template': '新建模板',
     'Templates for': '模版 针对',
     'Replicate page formats inside this database with templates.': '在此资料库中使用模板复制页面格式。',
