@@ -36,7 +36,7 @@
     // 左栏
     'Quick Find': '快速查找',
     'All Updates': '所有更新',
-      // 所有更新中
+      // 所有的更新中
       'Followed': '已关注',
       'Mentions': '提到我的',
       'Open notifications settings': '打开消息设置',
