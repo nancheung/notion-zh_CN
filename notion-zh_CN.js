@@ -249,7 +249,7 @@
       "Guests (" : '访客 (',
       "Convert to " : '转换为',
       "This guest can access these pages" : '他可以访问这些页面',
-      "Page" : '个页面',
+      "Page" : '页面',
     // -----------------
     'Upgrade': '升级',
     'Plans':'方案',
