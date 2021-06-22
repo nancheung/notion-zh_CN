@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Notion-zh_CN notion的汉化脚本
 // @namespace    http://tampermonkey.net/
-// @version      0.0.5
+// @version      0.0.6
 // @description  notion的汉化脚本
 // @author       NanCheung
 // @match        *://www.notion.so/*
@@ -440,6 +440,12 @@
     'Choose an image':'选择一张图片',
     'Drag image to reposition':'拖动图片以重新定位',
     'Save position':'保存位置',
+    'Synced block':'同步块',
+    'Sync content across pages.':'跨页面同步内容',
+    '':'',
+    '':'',
+    '':'',
+    '':'',
     '':'',
     '':'',
   });
