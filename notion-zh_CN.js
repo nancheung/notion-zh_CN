@@ -2,7 +2,7 @@
 // @name         Notion-zh_CN notion的汉化脚本
 // @namespace    http://tampermonkey.net/
 // @version      0.0.7
-// @description  notion的汉化脚本
+// @description  notion的汉化脚本，欢迎积极贡献一同改进项目，地址：https://github.com/nancheung97/notion-zh_CN
 // @author       NanCheung
 // @match        *://www.notion.so/*
 // @grant        none
