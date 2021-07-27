@@ -640,30 +640,24 @@
     }
   }
 
-  setTimeout(() => {
-    window.requestIdleCallback(() => {
-      translate(NotionApp);
+  translate(NotionApp);
 
-      const observer = new MutationObserver(function(mutationsList) {
-        return window.requestIdleCallback(function() {
-          mutationsList = mutationsList.filter(MutationRecord => {
-            return MutationRecord.addedNodes.length !== 0;
-          }).map(MutationRecord => {
-            return MutationRecord.addedNodes;
-          });
-
-          for (let nodeList of mutationsList) {
-            for (let node of nodeList) {
-              translate(node);
-            }
-          }
-        });
+  const observer = new MutationObserver(function(mutationsList) {
+      mutationsList = mutationsList.filter(MutationRecord => {
+        return MutationRecord.addedNodes.length !== 0;
+      }).map(MutationRecord => {
+        return MutationRecord.addedNodes;
       });
 
-      observer.observe(NotionApp, {
-        childList: true,
-        subtree: true
-      });
-    });
+      for (let nodeList of mutationsList) {
+        for (let node of nodeList) {
+          translate(node);
+        }
+      }
+  });
+
+  observer.observe(NotionApp, {
+    childList: true,
+    subtree: true
   });
 })();
