@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Notion-zh_CN notion的汉化脚本
 // @namespace    http://tampermonkey.net/
-// @version      0.0.9
+// @version      0.1.0
 // @description  notion的汉化脚本，欢迎积极贡献一同改进项目，地址：https://github.com/nancheung97/notion-zh_CN
 // @author       NanCheung
 // @match        *://www.notion.so/*
@@ -48,11 +48,15 @@
         "in" : "在",
       "Learn about page updates" : "学习如何修改页面",
     'Settings & Members': '设置与成员',
-
+    'Close sidebar':'关闭侧边栏',
+    'Lock sidebar open':'锁定展开侧边栏',
+    '':'',
+    '':'',
+    '':'',
     // -----------------
     'Share': '分享',
     'Updates': '更新',
-    'Favorite': '收藏',
+    'Favorited': '收藏',
     'Templates': '模板',
     'Import': '导入',
     'Trash': '垃圾箱',
@@ -399,7 +403,7 @@
     'Move to': '移动至',
     'Share or publish to the web': '分享或发布至网站',
     'View past changes to this page': '查看本页面过去的更改纪录',
-    'Pin this page in your sidebar': '将此页面固定在侧栏中',
+    'Hide this page from your sidebar': '将此页面固定在侧栏中',
     'Learn about importing': '了解关于导入',
     'All pages': '所有页面',
     'In current page': '在目前页面',
