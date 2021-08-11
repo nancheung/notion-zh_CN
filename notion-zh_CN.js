@@ -2419,6 +2419,8 @@
     "newBlock.tweet.title": "推文",
     "newBlock.typeform.description": "嵌入 Typeform 表单。",
     "newBlock.typeform.title": "Typeform",
+    "newBlock.transclusionContainer.description": "跨页面同步内容。",
+    "newBlock.transclusionContainer.title": "同步块",
     "newBlock.video.description": "从 YouTube、Vimeo 等嵌入视频。",
     "newBlock.video.title": "视频",
     "newBlock.whimsical.description": "嵌入 Whimsical 画板。",
