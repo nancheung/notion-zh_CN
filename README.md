@@ -1,3 +1,7 @@
+# 大家请使用更优秀的脚本：https://github.com/Reamd7/notion-zh_CN
+原脚本因为举报被下架，再加上此脚本也很优秀，因此停止开发。
+
+---
 # notion-zh_CN 是什么？
 
 notion-zh_CN是对notion.so的汉化油猴脚本
